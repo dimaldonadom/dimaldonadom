@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dimaldonadom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dimaldonadom, electronic engineering student.
+- 
+- 👀 I’m interested in digital electronics and design electronic
+- 
+- 📫 How to reach me: dimaldonadomarin@gmail.com
 
 <!---
 dimaldonadom/dimaldonadom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
