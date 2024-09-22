@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dimaldonadom, electronic engineering student.
-- 
+  
 - 👀 I’m interested in digital electronics and design electronic
-- 
+  
 - 📫 How to reach me: dimaldonadomarin@gmail.com
 
 <!---
